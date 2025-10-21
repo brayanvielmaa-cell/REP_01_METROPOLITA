@@ -4228,3 +4228,7 @@
 
 		}
 #three, #four, #footer section { display: none; }	
+#banner b {
+  color: white !important;
+  font-weight: 900 !important;
+}
